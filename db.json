@@ -1,0 +1,94 @@
+{
+  "profiles": [
+    {
+      "contactInfo": {
+        "birthDateOn": {
+          "month": 10,
+          "day": 31
+        },
+        "entityUrn": "urn:li:fs_contactinfo:ACoAACCB6J4BuOcUwHvunoZ1D3x5UqWj5hjq0o0",
+        "twitterHandles": []
+      },
+      "experience": [
+        "Tripulante de cabina",
+        "Atención al cliente",
+        "Recepcionista",
+        "Pub Manager",
+        "Promotor de ventas"
+      ],
+      "id": 1
+    },
+    {
+      "contactInfo": {
+        "entityUrn": "urn:li:fs_contactinfo:ACoAAAhf3ywBrIFyN_Xuyn97erF9XtzLN4olW-w",
+        "twitterHandles": [
+          {
+            "name": "mdallario",
+            "credentialId": "urn:li:member:140500780;237135647"
+          }
+        ]
+      },
+      "experience": [
+        "Talent Acquisition - IT Recruiter - Freelance",
+        "Reclutamiento y selección de personal - Freelance"
+      ],
+      "id": 2
+    },
+    {
+      "contactInfo": {
+        "emailAddress": "juan.londono29@udea.edu.co",
+        "address": "CR 56C #83DD SUR 52",
+        "entityUrn": "urn:li:fs_contactinfo:ACoAADJv0kQB-G-mLuRj7r2NL_bpqqzZ_IwE5U0",
+        "connectedAt": 1647391400000,
+        "websites": [
+          {
+            "type": {
+              "com.linkedin.voyager.identity.profile.StandardWebsite": {
+                "category": "COMPANY"
+              }
+            },
+            "url": "https://portfoliosebazt.netlify.app/"
+          },
+          {
+            "type": {
+              "com.linkedin.voyager.identity.profile.StandardWebsite": {
+                "category": "COMPANY"
+              }
+            },
+            "url": "https://github.com/Sebazt"
+          }
+        ],
+        "twitterHandles": [],
+        "phoneNumbers": [
+          {
+            "type": "MOBILE",
+            "number": "3104258723"
+          }
+        ]
+      },
+      "experience": [
+        "Software Engineer",
+        "Desarrollador Freelancer",
+        "MERN FullStack & Mobile Apps"
+      ],
+      "id": 3
+    }
+  ],
+  "candidates": [
+    {
+      "profileUrls": [
+        "https://www.linkedin.com/in/alejandro-alaniz-23a67375",
+        "https://www.linkedin.com/in/nicolas-sivoff",
+        "https://www.linkedin.com/in/marco-yamil-canelo-baiad-80b024151",
+        "https://www.linkedin.com/in/franco-deleo",
+        "https://www.linkedin.com/in/enhermann",
+        "https://www.linkedin.com/in/julian-peralta-986367190",
+        "https://www.linkedin.com/in/mluzbarcena",
+        "https://www.linkedin.com/in/joaquin-gonzalez-budino",
+        "https://www.linkedin.com/in/alexis-allamano-06907018b",
+        "https://www.linkedin.com/in/melanierojasguerra"
+      ],
+      "id": 1
+    }
+  ]
+}
